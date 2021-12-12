@@ -10,7 +10,7 @@ This is user class, store (almost) everything about user
 ```
 
 
-### POST /user
+## POST /user
 Get user data
 Params:
 `id` -- User id (Required)

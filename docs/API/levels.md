@@ -12,7 +12,8 @@ This is levels class, store everything about levels
     }
 ```
 
-### POST /getLevel
+
+## POST /getLevel
 Get level data
 Params:
 `id` -- Level id (Required)
